@@ -36,10 +36,18 @@ section {
 } 
 
 #apropos {
-  width: 25%;
+  width: 50%;
   padding: 10px;
   text-align: center;
   background-color: burlywood;
+}
+
+#services {
+ width: 50%;
+ padding: 40px;
+ text-align: left;
+ background-color: coral;
+ border-color: chocolate;
 }
 
 footer { 
